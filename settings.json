@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mizuki-lbwp.aternos.me",
+    "ip": " mizuki-lbwp.aternos.me:15528",
     "port": 15528,
-    "version": "1.21.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
