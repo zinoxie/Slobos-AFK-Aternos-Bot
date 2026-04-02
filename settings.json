@@ -8,7 +8,7 @@
   "server": {
     "ip": "mizuki-lbwp.aternos.me",
     "port": 15528,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
